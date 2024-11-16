@@ -4,3 +4,4 @@ The project introduces a software-based solution for secure and smart inventory 
 
 
 ![Uploading image.png…]()
+
